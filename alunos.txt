@@ -4,3 +4,5 @@ LISTE ORDENADA
 3- lucas 
 4- joao
 5- nzumba
+
+Esta eh uma lista organiza com base nos padroes atuais
