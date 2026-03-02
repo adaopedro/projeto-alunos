@@ -1,9 +1,6 @@
-joao
-andre
-mayamba
-
-essa eh a lista
-
-lucas 
-joao II
-nzumba
+LISTE ORDENADA
+1- andre
+2- mayamba
+3- lucas 
+4- joao
+5- nzumba
